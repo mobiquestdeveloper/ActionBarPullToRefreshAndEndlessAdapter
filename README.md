@@ -11,14 +11,16 @@ Steps to follow:
 
  https://github.com/chrisbanes/ActionBar-PullToRefresh.git
  
- 2. Clone the commonsguy / cwac-endless from the link below
+ 
+2. Clone the commonsguy / cwac-endless from the link below
  
  https://github.com/commonsguy/cwac-endless.git
  
  
- 3. Add support v7 library from your Android sdk (sdk/extras/android/support/v7/appcompat)
  
- 4. Add these libraries to your project(Actionbar-PulltoRefresh, cwac-endless adater and support v7 library.
+3. Add support v7 library from your Android sdk (sdk/extras/android/support/v7/appcompat)
  
- 5 Now you are ready to use this component.
+ 
+4. Add these libraries to your project(Actionbar-PulltoRefresh, cwac-endless adater and support v7 library.
+5. Now you are ready to use this component.
  
